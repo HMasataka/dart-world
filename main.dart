@@ -5,4 +5,5 @@ void printInteger(int num) {
 void main() {
   var num = 50;
   printInteger(num);
+  assert(false);
 }
