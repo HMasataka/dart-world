@@ -1,3 +1,8 @@
+void printInteger(int num) {
+  print("the number is $num");
+}
+
 void main() {
-  print("hello world");
+  var num = 50;
+  printInteger(num);
 }
